@@ -27,9 +27,6 @@ A simple collection of ways to start or continue to grow your career in web deve
 * How would you model our page? A hotel? A school?
 * OOP - Everything is an object. Describe this table.
 
-* Coding Challenges
-* Katas
-
 ## Interview Questions - To Ask
 
 * How do you onboard new employees?
